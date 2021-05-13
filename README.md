@@ -8,3 +8,6 @@ To view/add issues, go here https://github.com/DrewBokman/AOTG-Public-Issue-Boar
 https://www.roblox.com/groups/8038882/Attack-on-Titan-Glory
 
 https://discord.gg/xY3PcppbxN
+
+# For developers
+You are able to submit community code that you would want put into the game. Just make a branch and open a pull request, ill review the additions and go from there.
